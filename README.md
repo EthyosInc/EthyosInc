@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=VictorMwatu-KE&color=06b6d4&style=flat-square&label=Profile+Views" />
 </p>
 
-I'm a self-taught full-stack web developer from Kenya, focused on building practical software that solves real problems.
+I'm a self-taught full-stack web developer from Kenya,I build practical software that solves real problems.
 
 ---
 
