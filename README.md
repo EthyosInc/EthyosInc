@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Victor%20Mwatu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Full-Stack%20Developer%20%7C%20Kenya&descAlignY=55&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Victor%20Mwatu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open-source%20Full-Stack%20Developer%20%7C%20Kenya&descAlignY=55&descSize=17" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=VictorMwatu-KE&color=06b6d4&style=flat-square&label=Profile+Views" />
 </p>
 
-I'm a self-taught full-stack web developer from Kenya,I build practical software that solves real problems.
+I'm an open-source full-stack web developer from Kenya,I build practical software that solves real problems.
 
 ---
 
