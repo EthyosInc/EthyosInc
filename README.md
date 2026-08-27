@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+practical+software+that+solves+real+problems;Currently+deep+in+System+Design+%26+DevOps;Open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=I+Build+practical+software+that+solves+real+problems;Currently+deep+in+System+Design+%26+DevOps;Open+to+opportunities" />
 </p>
 
 <p align="center">
