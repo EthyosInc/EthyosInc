@@ -72,7 +72,7 @@ Backend infrastructure for a business management platform designed for small bus
 
 A course platform built around the PFEC curriculum.
 
-<a href="https://github.com/VictorMwatu-KE/pfec-curriculum"><img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/VictorMwatu-KE/Engineer-OS"><img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
