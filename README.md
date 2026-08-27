@@ -46,9 +46,6 @@ Current areas of focus:
 
 Backend infrastructure for a business management platform designed for small businesses in Kenya.
 
-### CODEYNE
-
-[Write one accurate sentence describing what this project actually does.]
 
 ### PFEC Portal
 
