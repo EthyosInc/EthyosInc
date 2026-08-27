@@ -68,16 +68,6 @@ Backend infrastructure for a business management platform designed for small bus
 </td>
 <td width="33%" valign="top">
 
-**⚡ CODEYNE**
-
-<!-- TODO: one accurate sentence on what this project does -->
-*(description coming soon)*
-
-<a href="https://github.com/VictorMwatu-KE/codeyne"><img src="https://img.shields.io/badge/View_Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="33%" valign="top">
-
 **🎓 PFEC Curriculum**
 
 A course platform built around the PFEC curriculum.
