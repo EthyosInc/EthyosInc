@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Ethyos%20Inc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open-source%20Full-Stack%20Developer%20%7C%20Kenya&descAlignY=55&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Ethyos%20Inc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=One-person%20software%20studio%20%7C%20Kenya&descAlignY=55&descSize=17" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=We+Build+practical+software+that+solves+real+problems;Currently+deep+in+System+Design+%26+DevOps;Open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=680&lines=I+build+practical+software+that+solves+real+problems;Currently+shipping+in+Rust%2C+System+Design+%26+DevOps;Built+entirely+from+an+Android+phone+in+Kitui%2C+Kenya;Open+to+opportunities" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Kenya-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team-Solo%20Founder-06B6D4?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square" />
   <a href="mailto:victorhuncho21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=VictorMwatu-KE&color=06b6d4&style=flat-square&label=Profile+Views" />
 </p>
 
-We are an open-source full-stack web developer company from Kenya,we build practical software that solves real problems.
+I'm Victor Mwatu — a self-taught, full-stack builder based in Kenya. Ethyos Inc is the studio I design, build, and ship real software under: no team, no funding, just fundamentals and finished products.
 
 ---
 
@@ -29,7 +30,7 @@ We are an open-source full-stack web developer company from Kenya,we build pract
 | Layer | Tools |
 |---|---|
 | Frontend | HTML, CSS, JavaScript, TypeScript, React |
-| Backend | Node.js, Express, REST APIs, Rust|
+| Backend | Node.js, Express, REST APIs, Rust |
 | Database | PostgreSQL, SQL |
 | Tooling | Git, GitHub, Docker, Linux |
 
@@ -37,7 +38,7 @@ We are an open-source full-stack web developer company from Kenya,we build pract
 
 ### 🚀 What I'm Building
 
-I'm focused on becoming a production-ready software engineer through building real applications, contributing to open source, and developing strong foundations in software engineering.
+I'm working toward becoming a production-grade software engineer — through real applications, open source, and understanding what I build, not just shipping it. Most of this is written and tested straight from a phone, then pushed to GitHub.
 
 **Current areas of focus:**
 
@@ -59,6 +60,15 @@ I'm focused on becoming a production-ready software engineer through building re
 <tr>
 <td width="33%" valign="top">
 
+**⚡ SafeFS**
+
+High-performance, memory-safe file server written in Rust. v0.1.0 — live, and built entirely from an Android phone in Kitui.
+
+<a href="https://github.com/EthyosInc/SafeFs"><img src="https://img.shields.io/badge/View_Repository-CE422B?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="33%" valign="top">
+
 **🧾 Duka Ledger**
 
 Backend infrastructure for a business management platform designed for small businesses in Kenya.
@@ -72,7 +82,7 @@ Backend infrastructure for a business management platform designed for small bus
 
 A course platform built around the PFEC curriculum.
 
-<a href="https://github.com/VictorMwatu-KE/Engineer-OS"><img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/EthyosInc/Engineer-OS"><img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -93,6 +103,7 @@ A course platform built around the PFEC curriculum.
   <img src="https://img.shields.io/badge/TypeScript-06B6D4?style=flat-square" /> ➜
   <img src="https://img.shields.io/badge/React-10B981?style=flat-square" /> ➜
   <img src="https://img.shields.io/badge/Node.js-2563EB?style=flat-square" /> ➜
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square" /> ➜
   <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square" /> ➜
   <img src="https://img.shields.io/badge/Docker-10B981?style=flat-square" /> ➜
   <img src="https://img.shields.io/badge/System%20Design-2563EB?style=flat-square" />
@@ -109,6 +120,7 @@ A course platform built around the PFEC curriculum.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMwatu-KE&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+<p align="center"><i>Stats reflect the primary maintainer, <a href="https://github.com/VictorMwatu-KE">@VictorMwatu-KE</a></i></p>
 
 ---
 
@@ -123,4 +135,3 @@ A course platform built around the PFEC curriculum.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer" />
 </p>
-
