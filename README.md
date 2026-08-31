@@ -62,7 +62,7 @@ I'm working toward becoming a production-grade software engineer — through rea
 
 **⚡ SafeFS**
 
-High-performance, memory-safe file server written in Rust. v0.1.0 — live, and built entirely from an Android phone in Kitui.
+High-performance, memory-safe file server written in Rust. v0.1.0 — live, and built entirely from an Android phone.
 
 <a href="https://github.com/EthyosInc/SafeFs"><img src="https://img.shields.io/badge/View_Repository-CE422B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
