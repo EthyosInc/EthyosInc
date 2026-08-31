@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Victor%20Mwatu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open-source%20Full-Stack%20Developer%20%7C%20Kenya&descAlignY=55&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Ethyos%20Inc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open-source%20Full-Stack%20Developer%20%7C%20Kenya&descAlignY=55&descSize=17" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=I+Build+practical+software+that+solves+real+problems;Currently+deep+in+System+Design+%26+DevOps;Open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=We+Build+practical+software+that+solves+real+problems;Currently+deep+in+System+Design+%26+DevOps;Open+to+opportunities" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=VictorMwatu-KE&color=06b6d4&style=flat-square&label=Profile+Views" />
 </p>
 
-I'm an open-source full-stack web developer from Kenya,I build practical software that solves real problems.
+We are an open-source full-stack web developer company from Kenya,we build practical software that solves real problems.
 
 ---
 
@@ -29,7 +29,7 @@ I'm an open-source full-stack web developer from Kenya,I build practical softwar
 | Layer | Tools |
 |---|---|
 | Frontend | HTML, CSS, JavaScript, TypeScript, React |
-| Backend | Node.js, Express, REST APIs |
+| Backend | Node.js, Express, REST APIs, Rust|
 | Database | PostgreSQL, SQL |
 | Tooling | Git, GitHub, Docker, Linux |
 
@@ -68,7 +68,7 @@ Backend infrastructure for a business management platform designed for small bus
 </td>
 <td width="33%" valign="top">
 
-**🎓 PFEC Curriculum**
+**🎓 EngineerOS**
 
 A course platform built around the PFEC curriculum.
 
@@ -86,7 +86,7 @@ A course platform built around the PFEC curriculum.
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Exploring
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square" /> ➜
