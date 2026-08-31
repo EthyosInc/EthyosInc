@@ -127,7 +127,7 @@ A course platform built around the PFEC curriculum.
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorMwatu-KE&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ethyosinc&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
