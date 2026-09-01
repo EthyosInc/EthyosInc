@@ -1,137 +1,144 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Ethyos%20Inc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=One-person%20software%20studio%20%7C%20Kenya&descAlignY=55&descSize=17" />
-</p>
+# Victor Mwatu
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=680&lines=I+build+practical+software+that+solves+real+problems;Currently+shipping+in+Rust%2C+System+Design+%26+DevOps;Built+entirely+from+an+Android+phone%2C+Kenya;Open+to+opportunities" />
-</p>
+### Frontend Developer · Kenya
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Kenya-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Team-Solo%20Founder-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square" />
-  <a href="mailto:victorhuncho21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=VictorMwatu-KE&color=06b6d4&style=flat-square&label=Profile+Views" />
-</p>
+I build responsive web applications with JavaScript, React, HTML and CSS.
 
-I'm Victor Mwatu — a self-taught, full-stack builder based in Kenya. Ethyos Inc is the studio I design, build, and ship real software under: no team, no funding, just fundamentals and finished products.
+I'm a self-taught developer focused on frontend engineering, API integration,
+database-backed applications and writing software that is practical and maintainable.
+
+Currently strengthening my skills in TypeScript, React, testing and modern
+frontend development workflows.
+
+[Portfolio](https://YOUR-PORTFOLIO-URL.com) ·
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) ·
+[Email](mailto:victorhuncho21@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## What I Work With
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,docker,linux&theme=dark" />
-</p>
+### Frontend
 
-| Layer | Tools |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, TypeScript, React |
-| Backend | Node.js, Express, REST APIs, Rust |
-| Database | PostgreSQL, SQL |
-| Tooling | Git, GitHub, Docker, Linux |
+HTML5 · CSS3 · JavaScript · React · TypeScript · Tailwind CSS · Responsive Design
 
----
+### Backend & APIs
 
-### 🚀 What I'm Building
+Node.js · Express · REST APIs · API Integration
 
-I'm working toward becoming a production-grade software engineer — through real applications, open source, and understanding what I build, not just shipping it. Most of this is written and tested straight from a phone, then pushed to GitHub.
+### Data
 
-**Current areas of focus:**
+PostgreSQL · SQL · Database Design
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend%20Engineering-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend%20Development-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database%20Design-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testing-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-2563EB?style=flat-square" />
-</p>
+### Development Tools
+
+Git · GitHub · Docker · Linux · Vite · Postman
+
+### Additional Engineering
+
+Rust · Systems Programming · Networking
 
 ---
 
-### 📌 Featured Projects
+## Selected Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### Duka Ledger
 
-**⚡ SafeFS**
+A business management and ledger application built around the needs
+of small businesses.
 
-High-performance, memory-safe file server written in Rust. v0.1.0 — live, and built entirely from an Android phone.
+The project explores application architecture, data management,
+API integration and financial record keeping.
 
-<a href="https://github.com/EthyosInc/SafeFs"><img src="https://img.shields.io/badge/View_Repository-CE422B?style=for-the-badge&logo=github&logoColor=white" /></a>
+**Stack:** JavaScript · React · PostgreSQL · REST API
 
-</td>
-<td width="33%" valign="top">
+[View Repository](https://github.com/VictorMwatu-KE/duka-ledger)
 
-**🧾 Duka Ledger**
+---
 
-Backend infrastructure for a business management platform designed for small businesses in Kenya.
+### SafeFS
 
-<a href="https://github.com/VictorMwatu-KE/duka-ledger"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+A file server written in Rust, focused on file handling,
+networking and systems-level programming.
 
-</td>
-<td width="33%" valign="top">
+The project gave me practical experience outside the frontend stack
+and strengthened my understanding of how software works below the UI.
 
-**🎓 EngineerOS**
+**Stack:** Rust · Systems Programming · Networking
+
+[View Repository](https://github.com/EthyosInc/SafeFs)
+
+---
+
+### EngineerOS
 
 A course platform built around the PFEC curriculum.
 
-<a href="https://github.com/EthyosInc/Engineer-OS"><img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+The project explores application structure, user-facing workflows
+and building a larger web product from the ground up.
 
-</td>
-</tr>
-</table>
+**Stack:** TypeScript · Web Development
 
----
-
-### 🧭 Engineering Philosophy
-
-> I focus on understanding the fundamentals behind the tools I use, writing maintainable code, testing what I build, and solving real problems.
+[View Repository](https://github.com/EthyosInc/Engineer-OS)
 
 ---
 
-### 📚 Currently Exploring
+## How I Learn
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/TypeScript-06B6D4?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/React-10B981?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/Node.js-2563EB?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/Docker-10B981?style=flat-square" /> ➜
-  <img src="https://img.shields.io/badge/System%20Design-2563EB?style=flat-square" />
-</p>
+I learn by building.
 
----
+Instead of collecting tutorials, I try to turn what I learn into
+working software, then improve it through debugging, testing,
+documentation and iteration.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorMwatu-KE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMwatu-KE&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMwatu-KE&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-<p align="center"><i>Stats reflect the primary maintainer, <a href="https://github.com/EthyosInc">@EthyosInc</a></i></p>
+My current priority is becoming a stronger frontend engineer while
+developing a broader understanding of backend systems and software
+architecture.
 
 ---
 
-### 🏆 Trophies
+## Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ethyosinc&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+I care about understanding the fundamentals behind the tools I use.
+
+That means learning how applications work, writing maintainable code,
+debugging problems systematically and improving projects after the
+first working version.
+
+I would rather have a small number of projects I can explain deeply
+than a large collection of unfinished demos.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer" />
-</p>
+## Ethyos
+
+Ethyos is the name I use for my independent software projects.
+
+It is a personal development studio rather than a large technology company.
+
+The developer is Victor Mwatu.
+
+The projects are the proof.
+
+---
+
+## Currently Learning
+
+- Advanced React
+- TypeScript
+- Frontend testing
+- Frontend architecture
+- State management
+- API design
+- Next.js
+- Modern deployment workflows
+
+---
+
+## Open To
+
+- Junior Frontend Developer roles
+- Junior Web Developer roles
+- Frontend internships
+- Entry-level software development opportunities
+- Open-source collaboration
